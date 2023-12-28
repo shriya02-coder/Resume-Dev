@@ -33,7 +33,7 @@ Resume Dev is committed to democratizing professional resume creation. Our aim i
 **Installation Instructions:**
 1. Retrieve the source code:
    ```sh
-   git clone https://github.com/shriya-02coder/resume-dev.git ``
+   git clone https://github.com/shriya-02coder/resume-dev.git 
 2. Enter the project's directory:
    ```sh
    cd resume-dev
