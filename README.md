@@ -1,7 +1,7 @@
 
 # Resume Dev
 
-## Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 - [Objective](#Objective)
@@ -18,7 +18,7 @@ Welcome to **Resume Dev**, an innovative open-source platform designed to revolu
 Resume Dev is committed to democratizing professional resume creation. Our aim is to provide a simple, no-cost solution for job seekers to create impactful resumes that engage recruiters and pave the way to their career success.
 
 <details>
-<summary>## Key Features</summary>
+<summary>##Key Features</summary>
 
 - **Instantaneous Feedback:** Watch as your resume transforms in real-time with each piece of information you enter.
 - **Curated Designs:** Select from a range of contemporary, ATS-optimized templates that adhere to the latest recruitment standards.
